@@ -1,4 +1,5 @@
-title:ctr Minha lista pessoal de perks.
+title:destiny2-my-whishlist.txt - Minha primeira lista
+description:Minha primeira lista
 
 @title:Minha lista pessoal
 @description:Feitas pelo proprio DIM
